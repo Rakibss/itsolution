@@ -73,12 +73,15 @@ border-right: none;
     position: relative;
 }
 .my-search {
-	width: 33px;
+	width: 26px;
 	position: absolute;
 	right: 0;
 	top: 0px;
     transition: .5s;
     background: #3dbad5;
+}
+.my-sss i{
+    pointer-events: none;
 }
 /* .my-search:hover{
     width: 40%;
